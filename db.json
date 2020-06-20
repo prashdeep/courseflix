@@ -4,7 +4,7 @@
 
                 "id":1,
                 "name":"Angular",
-                "courseUrl:'..\..\assets\angular.png',
+                "courseUrl":'..\..\assets\angular.png',
                 "price":8000,
                 "offer":true,
                 "start_date":"2019-10-12",
