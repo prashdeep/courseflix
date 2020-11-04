@@ -2,9 +2,9 @@
     "courses":[
     {
       "id":  1, 
-      "name": 'Angular',
-        "imgPath": '../../assets/img/angular.png',
-        "start_date": '2020-10-11',
+      "name": "Angular",
+        "imgPath": "../../assets/img/angular.png",
+        "start_date": "2020-10-11",
         "price": 30000,
         "duration": 25,
         "rating": 4.367,
@@ -13,10 +13,10 @@
     {
 
       "id":   2,
-      "name": 'React',
+      "name": "React",
 
-        "imgPath": '../../assets/img/react.png',
-        "start_date": '2020-10-11',
+        "imgPath": "../../assets/img/react.png",
+        "start_date": "2020-10-11",
         "price": 25000,
         "duration": 30,
         "rating": 4.677,
@@ -24,10 +24,10 @@
     },
     {
       "id":   3,
-      "name": 'Spring-Boot',
+      "name": "Spring-Boot",
 
-        "imgPath": '../../assets/img/spring-boot.png',
-        "start_date": '2020-10-11',
+        "imgPath": "../../assets/img/spring-boot.png",
+        "start_date": "2020-10-11",
         "price": 30000,
         "duration": 40,
         "rating": 4.321,
@@ -35,10 +35,10 @@
     },
     {
       "id":   4,
-      "name": 'Docker',
+      "name": "Docker",
 
-        "imgPath": '../../assets/img/docker.jpg',
-        "start_date": '2020-10-11',
+        "imgPath": "../../assets/img/docker.jpg",
+        "start_date": "2020-10-11",
         "price": 15000,
         "duration": 10,
         "rating": 4.00,
@@ -46,10 +46,10 @@
     },
     {
       "id":   5,
-      "name": 'K8s',
+      "name": "K8s",
 
-        "imgPath": '../../assets/img/k8s.png',
-        "start_date": '2020-10-11',
+        "imgPath": "../../assets/img/k8s.png",
+        "start_date": "2020-10-11",
         "price": 30000,
         "duration": 25,
         "rating": 4.767,
